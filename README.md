@@ -4,5 +4,5 @@ Biblioteka klas reprezentujących kupowanie prezentów w sklepach, w ramach rozw
 ## Polecenie
 ...
 
-## Diagram UML
-![Diagram UML](diagram-uml.png)
+## Diagram klas
+![Diagram klas](diagram-klas.png)
